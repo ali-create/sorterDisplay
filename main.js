@@ -126,6 +126,7 @@ function drawCircle(cx, cy, r, bit, color) {
 // clearDisplay() drawPixel(x,y,bit,color) drawLine(x1,y1,x2,y2,color)
 // drawRect(x1, y1, x2, y2, bit, color) drawCircle(x, y, radius, bit, color)
 // bit should be 1, if 0 then no draw will take place
+// do your tomfoolery down here !!!
 
 clearDisplay()
 
